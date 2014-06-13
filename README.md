@@ -1,3 +1,3 @@
-# Website to promote our bread products
+# Website to promote our pie products
 
-Git repo demo In the root
+Git repo demo In the root (PIE)
